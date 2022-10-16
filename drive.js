@@ -16,4 +16,4 @@ client.arrayCommands = [ ];
 require('./handlers/EventHandler').init(client);
 client.login(client.config.token)
 
-// I hope you enjoy ! //
+// I hope you enjoy ! // 
